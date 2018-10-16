@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vote Taker</string>
+        <string name="question">Will you come to the party? If you come what type of food and drink you want</string>
+</resources>

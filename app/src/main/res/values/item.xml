@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drink_array">
+        <item>Coca cola</item>
+        <item>Fanta</item>
+        <item>Sprite</item>
+        <item>Pepsi</item>
+        <item>Water</item>
+    </string-array>
+    <string-array name="food_array">
+        <item>Fried potatoes</item>
+        <item>Seafood</item>
+        <item>Rice</item>
+        <item>Pasta</item>
+        <item>Plov</item>
+    </string-array>
+</resources>
